@@ -1,0 +1,36 @@
+Freelance 
+	indeed.com
+	jora.com
+	seek.com.au
+
+
+
+Skills:
+	Github
+	Oracle APEX
+	Core Javascript, NodeJS, ReactJS, NextJS
+	APEX Office Print, APEX Media Extension
+	Linux, Server Administration (Linux/Ubuntu)
+	Database(Orcale/MySQL/MongoDB)
+	Amazon AWS / Microsoft Azure
+
+Learing Platforms:
+	Github Lists
+	Youtube:
+		BradTraversy
+		NetNinja
+		Javascript Mastery
+		Web Dev Simplified
+		freeCodeCamp.org
+	CodersLang
+	Projects from freeCodeCamp.org
+
+
+Projects: 	
+	Youtube Channel : Daily Tuition (Node Express MongoDB)
+
+
+React Packages:
+	beautiful-dnd
+	react-dnd
+	styled-components
